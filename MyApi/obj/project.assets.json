@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Håkon\\Typescript-C-project\\MyApi\\MyApi.csproj",
+      "projectUniqueName": "C:\\Users\\Håkon\\AngularCsharpDotNet\\MyApi\\MyApi.csproj",
       "projectName": "MyApi",
-      "projectPath": "C:\\Users\\Håkon\\Typescript-C-project\\MyApi\\MyApi.csproj",
+      "projectPath": "C:\\Users\\Håkon\\AngularCsharpDotNet\\MyApi\\MyApi.csproj",
       "packagesPath": "C:\\Users\\Håkon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Håkon\\Typescript-C-project\\MyApi\\obj\\",
+      "outputPath": "C:\\Users\\Håkon\\AngularCsharpDotNet\\MyApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Håkon\\AppData\\Roaming\\NuGet\\NuGet.Config"

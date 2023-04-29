@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T9W6UVqOe/hmHI+KUZYH23vb2ROYsmoP7hYplduZbws5+UKLQkGaPD9Bp9RTPzKMDvt5nw9CSRooJQ1UZwB3sA==",
+  "dgSpecHash": "5PY/4C33zdQB3Zsx1INAMlG9oxDyRDTm7KPHa+L6EGSQ49/nozjaLT7Rafdo327rgJ8VMmD+4iGqBpoTPFOU6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Håkon\\Typescript-C-project\\MyApi\\MyApi.csproj",
+  "projectFilePath": "C:\\Users\\Håkon\\AngularCsharpDotNet\\MyApi\\MyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Håkon\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Håkon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
